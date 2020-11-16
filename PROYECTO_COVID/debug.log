@@ -1,0 +1,4 @@
+[1114/221218.320:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1114/221218.385:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Natalia Montenegro Q\AppData\Local\AVG\Browser\User Data\Crashpad\attachments\ea873d0c-0c7d-480f-a38b-e3ae6f9ec35d: El sistema no puede encontrar la ruta especificada. (0x3)
+[1116/112041.019:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1116/114246.349:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
